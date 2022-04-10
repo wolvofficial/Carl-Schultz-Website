@@ -202,6 +202,26 @@ Thank you!
 
 <h2 id="Best Affiliate Sources">Best Affiliate Sources</h2>
 
+<p>There are many resources available to help you with your business.</p>
+
+<p><b>Here are a few:</b></p>
+
+<ul>
+
+<li>-Affiliate Programs: You can join an affiliate program to help promote your business.</li>
+
+<li>-Tools: There are a number of tools available to help you with your business. These include task managers, project management tools, and marketing resources.</li>
+
+<li>-Blogging: You can use blogging as a way to share information about your business with the world.</li>
+
+<li>-Social Media: You can use social media to connect with potential customers and promote your business.</li>
+
+<li>-Web Design: You can use web design to create a professional website for your business.</li>
+
+</ul>
+
+<p>These are just a few resources that you can use to help you with your business. By taking advantage of these resources, you can ensure that your business is successful.</p>
+
 <h3>Below is a list of my top resources</h3>
 
 <h3>We all need a little bit of guidance every now and then. Here are my best picks:</h3>
@@ -242,9 +262,9 @@ Thank you!
 <li><a href="https://www.gotchseo.com/" target="_blank">Gotch Seo!</a></li></ul>
 
 <address>
-<p>Written by: Carl Wolfgang Schultz<p>
+<p><b>Written by:</b> Carl Wolfgang Schultz<p>
 
-<p>Carl Schultz is a full-time affiliate marketer and blogger. Before starting his website, Carl worked as a warehouse manager and IT Professional. He is best known for his music videos and hit song Seven Whole Days.</p>
+<p>Carl Schultz is a full-time affiliate marketer and blogger. Before starting his website, Carl worked as a warehouse manager and IT professional. He is best known for his music videos and hit song Seven Whole Days.</p>
 
 <p>West Jordan, Utah USA</p>
 </address>
@@ -273,7 +293,7 @@ Thank you!
 
 <p>Then took the other, as just as fair, And having perhaps the better claim, Because it was grassy and wanted wear; Though as for that the passing there Had worn them really about the same,</p>
 
-<p>And both that morning equally lay In leaves, no step had trodden black. Oh, I kept the first for another day! Yet knowing how way leads on to way, I doubted if I should ever come back.</p>I shall be telling this with a sigh Somewhere ages and ages hence: Two roads diverged in a wood, and I took the one less traveled by, And that has made all the difference.
+<p>And both that morning equally lay In leaves, no step had trodden black. Oh, I kept the first for another day! Yet knowing how way leads on to way, I doubted if I should ever come back.</p>I shall be telling this with a sigh somewhere ages and ages hence: <b>Two roads diverged in a wood, and I took the one less traveled by, And that has made all the difference</b>.
 <p>-Robert Frost</p>
 
 <!-- LSI Keywords. These are at the bottom of Google page in Bold. Insert Keyword Here -->
