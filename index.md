@@ -95,6 +95,10 @@ Third, consider your financial goals. What are you trying to save for? How much 
     
 <h1>Where Is The Best Small Business Accountant Las Vegas?</h1>
 
+<!-- A little message here before the pictures occurs next -->
+
+<p> The best accountant is right here. He has been here all along. Sometimes all you need is a great referral. The best accountants can be hard to find. They're not always advertised. Usually, it takes an amazing experience to provide a good name. You are hearing about this amazing accountant because he is reputable and cares. He has taught me a lot over the years. And I'm grateful to know how he exists. He has helped me with my own business and showed me the path to life.</p>
+
 <!-- Main Image Goes Here; Insert Keyword Here (Avoid Stock Photos; Custom Only) -->
 
 <p><center><img src="https://cdn.pixabay.com/photo/2014/07/06/13/55/calculator-385506_960_720.jpg" alt="Who Is Really The Best Small Business Accountant Las Vegas?" style="width: 500px;height:400px;"></center></p>
@@ -104,12 +108,12 @@ Third, consider your financial goals. What are you trying to save for? How much 
 
 <h2 id="1.">1. The Small Business Accountant Las Vegas That Wins Customers!</h2>
 
-<p></p> 
+<p> Winning over customers is not easy. All it takes is one time to ruin it. You will love to meet him. He is very professional. His hospitability is at the top of its game. Clients keep on coming back. They like that he is most firm but fair. He will tell you what is going on with your business. That is rare to find these days. </p> 
 
 <p></p>
 
 <!-- H3 heading; Insert Keyword Here (Desire) -->
-<h3>What makes Mr. Schultz stand out from the rest?</h3>
+<h3>What makes Tim Schultz stand out from the rest?</h3>
 
 <ul>    
 <li>His dedication to high standards!</li>
@@ -120,7 +124,7 @@ Third, consider your financial goals. What are you trying to save for? How much 
 
 <h2 id="2.">2. Small Business Accountant Las Vegas Expert Interview!</h2>
 
-<p></p>
+<p> I will keep this interview short and brief. I have known Tim Schultz for a very long time. I can speak about his service. I can take the guesswork out of it. This is a true testimonial. He cares about his customers. I know he will do the same for you.  </p>
 
 <p></p>
 
@@ -152,10 +156,10 @@ Third, consider your financial goals. What are you trying to save for? How much 
 <p>Once your business becomes profitable, then it would be a good idea. CPAs are not appreciated enough. I have learned over the years that they are invaluable. Their credentials are hard to beat. They have a lot of knowledge. </p>
 
 <li>Do you need an accountant if you use QuickBooks?</li>
-</ul>
+
 
 <p>With the use of software nowadays it is easy to file your taxes. But, a CPA can do much more than software. A CPA can uncover things that software cannot. There is much more to a business than filing taxes. It's a good idea to use QuickBooks, but also give that information to your accountant so they can go through it. The more prepared you are the easier it will be for your accountant.</p>
-
+</ul>
 <p></p>
 
 <!-- H2 heading; Insert Keyword Here -->
@@ -238,7 +242,9 @@ Thank you!
 <li><a href="https://www.gotchseo.com/" target="_blank">Gotch Seo!</a></li></ul>
 
 <address>
-Written by Carl Wolfgang Schultz<p>Carl Schultz is a full-time affiliate marketer and blogger. Before starting his website, Carl worked as a warehouse manager and IT Professional. He is best known for his music videos and hit song Seven Whole Days.
+<p>Written by: Carl Wolfgang Schultz<p>
+
+<p>Carl Schultz is a full-time affiliate marketer and blogger. Before starting his website, Carl worked as a warehouse manager and IT Professional. He is best known for his music videos and hit song Seven Whole Days.</p>
 
 <p>West Jordan, Utah USA</p>
 </address>
@@ -272,7 +278,7 @@ Written by Carl Wolfgang Schultz<p>Carl Schultz is a full-time affiliate markete
 
 <!-- LSI Keywords. These are at the bottom of Google page in Bold. Insert Keyword Here -->
 
-<p>Keywords:</p> <p>tax accountant las vegas, cpa las vegas, nevada tax accountant, accounting principles</p>
+<p><b>Keywords:</b></p> <p><b>tax accountant las vegas, cpa las vegas, nevada tax accountant, accounting principles</b></p>
 
 <!-- Last 100 Words; MUST!!! Insert Keyword Here -->
 
